@@ -1,0 +1,7 @@
+C:\temp\ws-vs2019\Pagamento\Pagamento\bin\Debug\Pagamento.exe.config
+C:\temp\ws-vs2019\Pagamento\Pagamento\bin\Debug\Pagamento.exe
+C:\temp\ws-vs2019\Pagamento\Pagamento\bin\Debug\Pagamento.pdb
+C:\temp\ws-vs2019\Pagamento\Pagamento\obj\Debug\Pagamento.csproj.AssemblyReference.cache
+C:\temp\ws-vs2019\Pagamento\Pagamento\obj\Debug\Pagamento.csproj.CoreCompileInputs.cache
+C:\temp\ws-vs2019\Pagamento\Pagamento\obj\Debug\Pagamento.exe
+C:\temp\ws-vs2019\Pagamento\Pagamento\obj\Debug\Pagamento.pdb
